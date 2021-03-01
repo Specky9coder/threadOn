@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LaunchTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Show a splash screen on the activity. Automatically removed when
+             Flutter draws its first frame -->
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+  <!--  <style name="RedTheme" parent="Matisse.Zhihu">
+        <item name="colorPrimary">#B3FFFFFF</item>
+        <item name="colorPrimaryDark">#B3FFFFFF</item>
+        <item name="bottomToolbar.preview.textColor">#000000</item>
+        <item name="bottomToolbar.apply.textColor">#FFFFFF</item>
+        <item name="preview.bottomToolbar.back.textColor">#FFFFFF</item>
+        <item name="preview.bottomToolbar.apply.textColor">#FFFFFF</item>
+    </style>
+    &lt;!&ndash;<color name="zhihu_primary">#EF021A</color>&ndash;&gt;
+    <color name="zhihu_primary">#B3FFFFFF</color>
+    <color name="zhihu_primary_dark">#B3FFFFFF</color>
+
+    <color name="zhihu_bottom_toolbar_preview">#000000</color>
+    <color name="zhihu_bottom_toolbar_apply">#B3FFFFFF</color>
+    <color name="zhihu_preview_bottom_toolbar_back_text">#B3FFFFFF</color>
+    <color name="zhihu_preview_bottom_toolbar_apply">#B3FFFFFF</color>
+-->
+
+</resources>

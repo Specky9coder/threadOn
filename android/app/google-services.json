@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "730010878447",
+    "firebase_url": "https://threadon-86254.firebaseio.com",
+    "project_id": "threadon-86254",
+    "storage_bucket": "threadon-86254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730010878447:android:63dcabed89390f60",
+        "android_client_info": {
+          "package_name": "com.threadon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730010878447-1bi4cm9ceutej3m4fi936keubq1oc05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84AdkrhmfizE3z104voyTMt2SC4puTgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
