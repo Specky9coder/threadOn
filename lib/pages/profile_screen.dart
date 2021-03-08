@@ -235,10 +235,10 @@ class _ProfileScreenState extends State<ProfileScreen> {
             onTap: () => MyNavigator.goToLogin(context),
           ),
 
-//          ListTile(
-//            title: Text('Join'),
-//            onTap: () => MyNavigator.goToHome(context),
-//          ),
+         ListTile(
+           title: Text('Join'),
+           onTap: () => MyNavigator.goToHome(context),
+         ),
           new Divider(color: Colors.black26),
           Container(
             padding: const EdgeInsets.all(16.0),

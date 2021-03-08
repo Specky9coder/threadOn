@@ -123,11 +123,13 @@ class MyNavigator {
 
   static void goToCompany(BuildContext context, String toolname) {
     Navigator.push(
-        context,
-        MaterialPageRoute(
-            builder: (context) => CompanyScreen(
-                  tool_name: toolname,
-                )));
+      context,
+      MaterialPageRoute(
+        builder: (context) => CompanyScreen(
+          tool_name: toolname,
+        ),
+      ),
+    );
   }
 
   static void gotoDetils(BuildContext context, Shell_Product_Model item) {
@@ -295,6 +297,7 @@ class MyNavigator {
         MaterialPageRoute(
             builder: (context) => Add_Item_3(appbar_name: toolname)));
   }
+
   /* static void gotoAdd_item_3_camera_Screen(BuildContext context,String toolname) {
     Navigator.push(context, MaterialPageRoute(builder: (context) =>Add_Item_3_Camera(appbar_name:  toolname)));
   }*/
@@ -334,6 +337,7 @@ class MyNavigator {
   static gotoReport_Screen(BuildContext context) {
     Navigator.push(context, MaterialPageRoute(builder: (context) => Report()));
   }
+
 //  static  gotoReport_Submit_Screen(BuildContext context, String toolname) {
 //    Navigator.push(context, MaterialPageRoute(builder: (context) =>Report_Submitscreen()));
 //  }

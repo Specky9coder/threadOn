@@ -46,6 +46,7 @@ dependencies:
   flutter_absolute_path: ^1.0.6
   connectivity: ^0.4.9+2
   file_picker: ^2.0.0
+  webview_flutter: ^1.0.7
   
 description: "A new Flutter application."
 dev_dependencies:

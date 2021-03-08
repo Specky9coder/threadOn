@@ -8,6 +8,78 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:730010878447:android:6e295d43b0417a96d8761a",
+        "android_client_info": {
+          "package_name": "com.example.threadon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730010878447-1bi4cm9ceutej3m4fi936keubq1oc05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84AdkrhmfizE3z104voyTMt2SC4puTgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730010878447-1bi4cm9ceutej3m4fi936keubq1oc05r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730010878447-7lldnrotje9gful234na5tss1flj2nlc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.widle.tradesy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730010878447:android:d3a0c4fed0bb7ad9d8761a",
+        "android_client_info": {
+          "package_name": "com.threadon.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730010878447-1bi4cm9ceutej3m4fi936keubq1oc05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84AdkrhmfizE3z104voyTMt2SC4puTgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730010878447-1bi4cm9ceutej3m4fi936keubq1oc05r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730010878447-7lldnrotje9gful234na5tss1flj2nlc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.widle.tradesy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:730010878447:android:63dcabed89390f60",
         "android_client_info": {
           "package_name": "com.threadon.app"
@@ -25,15 +97,20 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730010878447-1bi4cm9ceutej3m4fi936keubq1oc05r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730010878447-7lldnrotje9gful234na5tss1flj2nlc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.widle.tradesy"
+              }
+            }
+          ]
         }
       }
     }

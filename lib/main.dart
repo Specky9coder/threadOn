@@ -28,6 +28,7 @@ Future<Null> main() async {
   }
   runApp(
     MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
           primaryColor: Colors.white,
           primaryColorDark: Colors.black,
