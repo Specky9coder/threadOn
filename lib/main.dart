@@ -2,7 +2,6 @@ import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:threadon/pages/Add_Address_screen.dart';
 import 'package:threadon/pages/Add_Item_Screen_3_Camera.dart';
-
 import 'package:threadon/pages/category.dart';
 import 'package:threadon/pages/department_detail.dart';
 import 'package:threadon/pages/departments_screen.dart';
